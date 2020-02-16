@@ -1,6 +1,5 @@
 <?php
 
-// Complete the staircase function below.
 function staircase($n) {
 
 $x=1;
