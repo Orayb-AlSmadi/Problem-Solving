@@ -3,6 +3,7 @@
 function staircase($n) {
 
 $x=1;
+
 for ($j=$n; $j>0; $j--){
 echo str_repeat(" ", $j-1);
 
